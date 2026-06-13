@@ -1,7 +1,6 @@
 # Motifs Clustering in Time Series Data
 
 Author: **Fatima Alibabayeva**  
-Task: **Algorithm Developer Task 2026**
 
 ## Solution overview
 
@@ -33,7 +32,6 @@ Expected runtime on a typical laptop: about **15-20 seconds**.
 
 | File | Purpose |
 |---|---|
-| `motif_results.csv` | Every extracted motif with signal name, start/end indices, cluster ID, and features |
 | `cluster_summary.csv` | Interpretable cluster-level statistics |
 | `evaluation_metrics.csv` | Baseline comparison and final evaluation metrics |
 | `model_comparison_scores.csv` | Metric table saved for reporting |
